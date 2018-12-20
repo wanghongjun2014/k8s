@@ -12,5 +12,5 @@ spec:
   volumes:
   - name: git-volume
     gitRepo:
-      repository: "git@somewhere:me/my-git-repository.git"
-      revision: "22f1d8406d464b0c0874075539c1f2e96c253775"
+      repository: "git@github.com:wanghongjun2014/k8s.git"
+      revision: "2cf62ab"
