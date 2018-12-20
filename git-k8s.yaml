@@ -13,4 +13,4 @@ spec:
   - name: git-volume
     gitRepo:
       repository: "git@github.com:wanghongjun2014/k8s.git"
-      revision: "2cf62ab"
+      revision: "476706ca900fd4b4580097543b853f07532761bc"
